@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background-head{
+    background-size: cover;
+    height: 80vh;
+    /* background-image: url(images/IN-en-20240205-popsignuptwoweeks-perspective_alpha_website_small.jpg); */
+}
+.navbar{
+    height: 0.8vh;
+    padding: 18px 36px;
+    border: 2px solid red;
+    position: relative;
+    /* display: flex; */
+    
+}
+.inner-div{
+    position: absolute;
+    margin: auto 50%;
+    /* text-align: center;
+    justify-content: center; */
+    height: 5vh;
+    background-color: aqua;
+    width: 100%;
+}
