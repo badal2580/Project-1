@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background-head{
+    background-size: cover;
+    height: 525px;
+}
+.navbar{
+    height: 69px;
+    padding: 18px 36px;
+    justify-content: center;
+    align-items: center;
+    background-color:burlywood;
+
+}
+.inner-div{
+    height: 36px;
+    background-color: aqua;
+}
